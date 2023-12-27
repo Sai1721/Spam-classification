@@ -1,4 +1,3 @@
-```markdown
 # Email Spam Classification in Python
 
 ![ESC](https://github.com/Sai1721/Spam-classification/assets/144148303/ee56d900-b3c4-44cb-b463-b17aba1634fc)
